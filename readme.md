@@ -58,7 +58,7 @@ RegisterNumber: 212225230144
 
 
 **RTL realization**
-![Output](output1.png)
+![output](output1.png)
 **Output:**
 
 **RTL**
