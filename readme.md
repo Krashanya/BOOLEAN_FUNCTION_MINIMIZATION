@@ -58,13 +58,13 @@ RegisterNumber: 212225230144
 
 
 **RTL realization**
-![Output](exp2.png)
+![Output](output1.png)
 **Output:**
 
 **RTL**
-![Output](exp2t.png)
+![Output](output3.png)
 **Timing Diagram**
-![Output](exp2e.png)
+![Output](output2.png)
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
