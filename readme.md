@@ -58,7 +58,7 @@ RegisterNumber: 212225230144
 
 
 **RTL realization**
-![output](output1.png)
+https://th.bing.com/th?id=ORMS.549d52b12487a3350b275e7de110e774&pid=Wdp&w=686&h=368&qlt=90&c=1&rs=1
 **Output:**
 
 **RTL**
