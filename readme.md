@@ -59,15 +59,19 @@ RegisterNumber: 212225230144
 ```
 
 **Truth table for F1:**
+
 <img width="557" height="851" alt="image" src="https://github.com/user-attachments/assets/f4c3be23-765b-472b-8088-23f680697737" />
 
 **Truth table for F2:**
+
 <img width="560" height="852" alt="image" src="https://github.com/user-attachments/assets/6274372d-3361-4798-844d-24cda18077be" />
 
 **Output:**
+
 <img width="532" height="787" alt="image" src="https://github.com/user-attachments/assets/1239d9a0-11c9-4e7f-a55a-90742c10ebb4" />
 
 **Timing Diagram**
+
 <img width="1600" height="345" alt="image" src="https://github.com/user-attachments/assets/725f3348-c050-4cb0-8da8-ed4735640337" />
 
 **Result:**
